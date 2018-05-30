@@ -1,1 +1,1 @@
-# DATA_S
+Creating templates for techgig code gladiators
